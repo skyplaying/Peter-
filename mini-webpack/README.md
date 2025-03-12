@@ -472,7 +472,7 @@ h.start();/** 类似发布 */
 
 欢迎加入`segmentFault`前端交流群
 
-我的个人微信:`CALASFxiaotan` 拉你进群
+我的个人微信:`PeterTan6666` 拉你进群
 
 小姐姐们等你哦～ 
 
